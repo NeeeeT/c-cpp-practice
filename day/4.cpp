@@ -7,6 +7,8 @@ class Demo{
         int a;
         int b;
         int doSomething();
+    private:
+    float x;
 };
 
 int Demo::doSomething(){
